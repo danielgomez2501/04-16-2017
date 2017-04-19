@@ -11,3 +11,6 @@ export calcular=$((2 ** 4)) | echo calcular
 ```
 
 -Ejercio numero 3
+```
+ps -A | tail -n +2 | wc -l
+```
