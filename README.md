@@ -7,7 +7,8 @@ ps -A | wc -l
 
 -Ejercio numero 2
 ```
-export calcular=$((2 ** 4)) | echo calcular
+export calcular=$((2 ** 4))
+echo $calcular
 ```
 
 -Ejercio numero 3
